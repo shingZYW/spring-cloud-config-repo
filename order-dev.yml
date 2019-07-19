@@ -19,7 +19,7 @@ eureka:
     prefer-ip-address: true
 
 env:
-  tes12
+  tes33
   
 
 
