@@ -6,4 +6,4 @@ eureka:
     prefer-ip-address: true
 
 env:
-  tes1232341421312
+  test
